@@ -4,10 +4,7 @@ Welcome to the DocChat Project ⚡️
 
 ## Introduction
 
-## Quick Setup
-
-## Structure
-
+## Service Structure
 
 ```mermaid
 flowchart TD
@@ -21,7 +18,22 @@ flowchart TD
     end
 ```
 
+## Infrastructure
+
+## Quick Setup
+
+### Prerequisites
+
+### Installation
 
 ## Development
+
+### Prerequisites
+
+### Project Setup
+
+### Commiting Changes
+
+### Deploying
 
 ## Troubleshooting
